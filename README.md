@@ -25,7 +25,6 @@ Strong academic and professional background, Able to leverage knowledge of multi
 - My old projects
 - Data engineer
 - Data ananlyst
-- DevSecOps
 - Devops
 
 ## 🌱 I'm currently learning
@@ -33,7 +32,7 @@ Strong academic and professional background, Able to leverage knowledge of multi
 - 📱 Machine Learning
 - IA
 - CloudSec
-- Data Science
+- Kubernetes
 
 ## 💼 Technical Skills
 
@@ -52,7 +51,3 @@ Strong academic and professional background, Able to leverage knowledge of multi
 ![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
-
-## 📝 Latest Blog Posts
-
-- [ETL Data Pipeline, RDBMS TO HDFS using Airflow, Apache Sqoop, Spark, Postgres, and Hive](https://medium.com/@stefentaime/etl-data-pipeline-rdbms-to-hdfs-using-airflow-apache-sqoop-spark-postgres-and-hive-773f0e745537)
