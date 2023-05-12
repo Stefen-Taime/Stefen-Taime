@@ -10,11 +10,11 @@ Hi there, I'm <a href="" target="_blank" rel="noreferrer">Stefen</a> 👋
 I'm a Data engineer and Analyst💻, Photographer 📸, and Designer 🎨!
 </h2> 
 
-As a data engineer with over 8 years of experience, I am skilled in designing, building, and maintaining data pipelines and infrastructure to support analytical and business intelligence needs. I am proficient in a range of technologies and tools, including SQL, Python, ETL frameworks, and big data technologies such as Hadoop and Spark.
+With more than eight years of experience as a data engineer, I've developed a deep skill set in designing, constructing, and managing data pipelines and infrastructure. My work supports a variety of analytical and business intelligence needs. I have a solid proficiency in diverse technologies and tools, including but not limited to SQL, Python, ETL frameworks, and big data technologies such as Hadoop and Spark.
 
-On my GitHub account, you will find a collection of projects and code examples that demonstrate my expertise in data engineering. These projects showcase my ability to extract, transform, and load data from various sources, as well as my skills in data modeling, visualization, and reporting.
+My GitHub account hosts an array of projects and code samples that demonstrate my expertise in the field of data engineering. These projects not only exhibit my abilities in extracting, transforming, and loading data from multiple sources, but they also reflect my data modeling, visualization, and reporting skills.
 
-I am always seeking opportunities to learn and grow, and I welcome the opportunity to collaborate with other professionals in the field. Feel free to connect with me on GitHub to learn more about my work and to share ideas and knowledge.
+I am committed to continuous learning and growth, and I am open to collaborating with other professionals in the field. I invite you to connect with me on GitHub to explore my work, exchange ideas, and share knowledge.
 
 ### 🤝 Connect with me:
 
