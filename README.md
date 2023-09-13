@@ -3,42 +3,42 @@
 </p>
 
 <h3 align="center">
-Salut, je suis <a href="YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO" target="_blank" rel="noreferrer">Stefen</a> 👋
+Hello, I am <a href="YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO" target="_blank" rel="noreferrer">Stefen</a> 👋
 </h3>
 
 <h2 align="center">
-Je suis ingénieur et analyste de données 💻, photographe 📸 et designer 🎨!
+I am an engineer and data analyst 💻, photographer 📸, and designer 🎨!
 </h2>
 
-Bonjour et bienvenue sur mon GitHub! Avec plus de huit années d'expérience en tant qu'ingénieur de données, j'ai acquis une compétence approfondie dans la conception, la construction et la gestion des pipelines et infrastructures de données. Mon travail appuie divers besoins analytiques et d'intelligence d'affaires, avec une solide maîtrise d'une variété de technologies et d'outils, y compris mais sans s'y limiter, SQL, Python, les cadres ETL, ainsi que des technologies de big data telles que Hadoop et Spark.
+Hello and welcome to my GitHub! With over eight years of experience as a data engineer, I have gained deep expertise in designing, building, and managing data pipelines and infrastructures. My work supports various analytical and business intelligence needs, with a solid mastery of a variety of technologies and tools, including but not limited to, SQL, Python, ETL frameworks, as well as big data technologies such as Hadoop and Spark.
 
-Mon compte GitHub héberge une gamme de projets et d'exemples de code qui démontrent mon expertise dans le domaine de l'ingénierie des données. Ces projets ne montrent pas seulement mes compétences dans l'extraction, la transformation et le chargement des données provenant de diverses sources, mais reflètent également mes compétences en modélisation de données, visualisation et reporting.
+My GitHub account hosts a range of projects and code examples that demonstrate my expertise in the field of data engineering. These projects not only showcase my skills in extracting, transforming, and loading data from various sources but also reflect my abilities in data modeling, visualization, and reporting.
 
-Je suis engagé dans un apprentissage et une croissance continus, et je suis ouvert à la collaboration avec d'autres professionnels du domaine. Je vous invite à me rejoindre sur GitHub pour explorer mon travail, échanger des idées et partager des connaissances.
+I am committed to continuous learning and growth, and I am open to collaborating with other professionals in the field. I invite you to join me on GitHub to explore my work, exchange ideas, and share knowledge.
 
-### 🤝 Connectez-vous avec moi:
+### 🤝 Connect with me:
 
 - [LinkedIn](https://www.linkedin.com/in/stefen-taime-829492117/)
 - [Instagram](https://www.instagram.com/truestoryenjoy/?hl=fr)
 - [Medium](https://medium.com/@Stefentaime_10958)
 
-N'hésitez pas à me contacter si vous avez des questions ou des commentaires !
+Feel free to contact me if you have any questions or comments!
 
-## 🔭 Je travaille actuellement sur
+## 🔭 I am currently working on
 
-- La refonte de mes anciens projets
-- Des projets d'ingénierie de données
-- Des analyses de données
-- Des projets DevOps
+- Redesigning my old projects
+- Data engineering projects
+- Data analyses
+- DevOps projects
 
-## 🌱 Je suis en train d'apprendre
+## 🌱 I am currently learning
 
 - 📱 Machine Learning
-- IA (Intelligence Artificielle)
-- CloudSec (Sécurité dans le Cloud)
+- AI (Artificial Intelligence)
+- CloudSec (Cloud Security)
 - Kubernetes
 
-## 💼 Compétences techniques
+## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=Python&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
