@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="LINK_TO_YOUR_PROFILE_PICTURE_OR_LOGO" alt="Profile Picture" width="150" />
-</p>
 
 <h3 align="center">
 Hello, I am <a href="YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO" target="_blank" rel="noreferrer">Stefen</a> 👋
