@@ -1,53 +1,49 @@
 <p align="center">
- </a>
+  <img src="LINK_TO_YOUR_PROFILE_PICTURE_OR_LOGO" alt="Profile Picture" width="150" />
 </p>
 
 <h3 align="center">
-Hi there, I'm <a href="" target="_blank" rel="noreferrer">Stefen</a> 👋
+Salut, je suis <a href="YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO" target="_blank" rel="noreferrer">Stefen</a> 👋
 </h3>
 
 <h2 align="center">
-I'm a Data engineer and Analyst💻, Photographer 📸, and Designer 🎨!
-</h2> 
+Je suis ingénieur et analyste de données 💻, photographe 📸 et designer 🎨!
+</h2>
 
-With more than eight years of experience as a data engineer, I've developed a deep skill set in designing, constructing, and managing data pipelines and infrastructure. My work supports a variety of analytical and business intelligence needs. I have a solid proficiency in diverse technologies and tools, including but not limited to SQL, Python, ETL frameworks, and big data technologies such as Hadoop and Spark.
+Bonjour et bienvenue sur mon GitHub! Avec plus de huit années d'expérience en tant qu'ingénieur de données, j'ai acquis une compétence approfondie dans la conception, la construction et la gestion des pipelines et infrastructures de données. Mon travail appuie divers besoins analytiques et d'intelligence d'affaires, avec une solide maîtrise d'une variété de technologies et d'outils, y compris mais sans s'y limiter, SQL, Python, les cadres ETL, ainsi que des technologies de big data telles que Hadoop et Spark.
 
-My GitHub account hosts an array of projects and code samples that demonstrate my expertise in the field of data engineering. These projects not only exhibit my abilities in extracting, transforming, and loading data from multiple sources, but they also reflect my data modeling, visualization, and reporting skills.
+Mon compte GitHub héberge une gamme de projets et d'exemples de code qui démontrent mon expertise dans le domaine de l'ingénierie des données. Ces projets ne montrent pas seulement mes compétences dans l'extraction, la transformation et le chargement des données provenant de diverses sources, mais reflètent également mes compétences en modélisation de données, visualisation et reporting.
 
-I am committed to continuous learning and growth, and I am open to collaborating with other professionals in the field. I invite you to connect with me on GitHub to explore my work, exchange ideas, and share knowledge.
+Je suis engagé dans un apprentissage et une croissance continus, et je suis ouvert à la collaboration avec d'autres professionnels du domaine. Je vous invite à me rejoindre sur GitHub pour explorer mon travail, échanger des idées et partager des connaissances.
 
-### 🤝 Connect with me:
+### 🤝 Connectez-vous avec moi:
 
-<a href="https://www.linkedin.com/in/stefen-taime-829492117//"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/truestoryenjoy/?hl=fr"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-<a href="https://medium.com/@Stefentaime_10958"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/medium.svg" alt="Yu Shi | Medium" width="21px"/></a>
-</br>
-- 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+- [LinkedIn](https://www.linkedin.com/in/stefen-taime-829492117/)
+- [Instagram](https://www.instagram.com/truestoryenjoy/?hl=fr)
+- [Medium](https://medium.com/@Stefentaime_10958)
 
-## 🔭 I'm currently working on
+N'hésitez pas à me contacter si vous avez des questions ou des commentaires !
 
-- My old projects
-- Data engineer
-- Data ananlyst
-- Devops
+## 🔭 Je travaille actuellement sur
 
-## 🌱 I'm currently learning
+- La refonte de mes anciens projets
+- Des projets d'ingénierie de données
+- Des analyses de données
+- Des projets DevOps
+
+## 🌱 Je suis en train d'apprendre
 
 - 📱 Machine Learning
-- IA
-- CloudSec
+- IA (Intelligence Artificielle)
+- CloudSec (Sécurité dans le Cloud)
 - Kubernetes
 
-## 💼 Technical Skills
+## 💼 Compétences techniques
 
 ![](https://img.shields.io/badge/Code-python-informational?style=flat&logo=Python&color=61DAFB)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
-
-</br>
-
-</br>
 
 ![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
