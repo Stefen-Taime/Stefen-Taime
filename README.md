@@ -4,7 +4,7 @@ Hello, I am <a href="YOUR_PERSONAL_WEBSITE_OR_PORTFOLIO" target="_blank" rel="no
 </h3>
 
 <h2 align="center">
-I am an engineer and data analyst 💻, photographer 📸, and designer 🎨!
+I am an data engineer 💻, photographer 📸, and designer 🎨!
 </h2>
 
 Hello and welcome to my GitHub! With over eight years of experience as a data engineer, I have gained deep expertise in designing, building, and managing data pipelines and infrastructures. My work supports various analytical and business intelligence needs, with a solid mastery of a variety of technologies and tools, including but not limited to, SQL, Python, ETL frameworks, as well as big data technologies such as Hadoop and Spark.
